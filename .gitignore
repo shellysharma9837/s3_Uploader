@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+/tmp/
+*.log
+s3_uploader/config.py
+.env
